@@ -13,14 +13,14 @@
 
 	(a)	Create a database called ``footballDB``
 
-	(b)	Create a table called ``clubs`` with two fields - ``name`` and ``ground``.  Use the data type ``varchar`` and appropriate sizes.
+	(b)	Create a table called ``teams`` with two fields - ``name`` and ``stadium``.  Use the data type ``varchar`` and appropriate sizes.
 
-	(c)	Insert at least 5 records into the new table
+	(c)	Insert at least 5 records into the new table. e.g. ``name`` = *FC Barcelona* and ``stadium`` = *Camp Nou* 
 	
-1.	Write a PHP program ``listClubs.php`` that prints the club names in an ordered list (``<ol>``)
+1.	Write a PHP program ``listTeams.php`` that prints the team names in an ordered list (``<ol>``)
 
-1.	Write a PHP script called ``clubTable.php`` that displays ALL the ``clubs`` table data inside a HTML table.
+1.	Write a PHP script called ``teamTable.php`` that displays ALL the ``teams`` table data inside a HTML table.
 
-1.	Write a PHP script called ``clubDropdown.php`` that displays the club names inside a dropdown box.
+1.	Write a PHP script called ``teamDropdown.php`` that displays the team names inside a dropdown box.
 	
 
