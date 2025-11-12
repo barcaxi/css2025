@@ -1,6 +1,6 @@
 # Ajax Exercise 1 – Hello Ajax
 		
-> Complete ALL the exercises in this section.  If you need help email thomas.devine@lyit.ie
+> Complete ALL the exercises in this section.  If you need help email thomas.devine@atu.ie
 
 ## Clone the Remote Repository
 
