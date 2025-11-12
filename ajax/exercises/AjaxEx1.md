@@ -6,7 +6,7 @@
 
 This will copy some ``ajax`` program files to your ``htdocs`` folder.  
 
-Go to [this link](https://github.com/barcaxi/css2024/) and download the repository ZIP file.  Copy the ``ajax`` folder into your XAMPP ``htdocs`` folder.
+Go to [this link](./) and download the repository ZIP file.  Copy the ``ajax`` folder into your XAMPP ``htdocs`` folder.
 
 Check your ``htdocs`` folder.  You should have a new folder called ``ajax`` with some files in it.
 
